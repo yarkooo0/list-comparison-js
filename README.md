@@ -12,7 +12,7 @@
 
 1. Склонуйте репозиторій:
     ```bash
-    git clone https://github.com/yarkooo0/Lists.git
+    git clone https://github.com/yarkooo0/list-comparison-js.git
     ```
 2. Відкрийте файл `Lists.html` у браузері. У цьому файлі містяться як HTML, так і JavaScript для тестування.
 
